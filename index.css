@@ -58,4 +58,8 @@ body
     transition: all 0.2s linear;
     
 }
+nav .right .navLink a:hover
+{
+    color:yellow;
+}
  
